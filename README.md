@@ -1,6 +1,4 @@
-### 你好，世界 👋
+### 愿意来看这样一个Five的主页，你真好👋
+ * Netpunk现在还是一个菜鸡，不知道以后还是不是。 
+ * Netpunk现在啥也不会，所有写的东西很少。
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
