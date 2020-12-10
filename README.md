@@ -1,2 +1,6 @@
-# 试试新功能
- * It's a introduction of this boring man.
+### 你好，世界 👋
+
+- :orange_book: Focusing on Swift & iOS
+- :hammer: Creator of applications and frameworks
+- :ram: Founder the ObjCCN
+- :meat_on_bone: Meat lover
