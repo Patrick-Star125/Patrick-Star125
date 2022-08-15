@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **database core, operating system core, ML base**
 
-- 📝 I regularly write articles on [this](http://http://blog.netpunk.space/)
+- 📝 I regularly write articles on [this](http://blog.netpunk.space/)
 
 - 💬 Ask me about **python, ML, DBMS**
 
